@@ -12,10 +12,9 @@
 void callback(char* topic, byte* payload, unsigned int length1);
 
 //SSID and Password of your WiFi router
-//const char* ssid = "Ananthaya";
-//const char* password = "GJTM9RY9TY4"; 
-const char* ssid = "AndroidAP";
-const char* password = "lrkr9222"; 
+
+const char* ssid = "xxxxx";
+const char* password = "xxxxx"; 
  
 const char* mqtt_server = "test.mosquitto.org";
 WiFiClient WiFiclient;
