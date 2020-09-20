@@ -1,7 +1,13 @@
+/**
+ * This establishes the WiFi connection in NodeMCU
+ Sagara Sumathipala
+  * 20/09/2020
+ */
+
 #include <ESP8266WiFi.h>
 
-const char *ssid =  "Ananthaya";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "GJTM9RY9TY4";
+const char *ssid =  "******";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "******";
 
 WiFiClient client;
  
