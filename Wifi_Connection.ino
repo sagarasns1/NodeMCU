@@ -1,8 +1,8 @@
 /**
  * This establishes the WiFi connection in NodeMCU
- Sagara Sumathipala
-  * 20/09/2020
- */
+ * Sagara Sumathipala
+ * 20/09/2020
+*/
 
 #include <ESP8266WiFi.h>
 
